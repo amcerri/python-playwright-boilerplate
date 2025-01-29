@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+pbvenv/
+
+# Pytest cache
+.pytest_cache/
+
+# Playwright downloads (browser binaries, etc.)
+playwright/.cache/
+
+# VSCode configurations
+.vscode/
+
+# IDE settings (e.g., PyCharm)
+.idea/
+
+# Environment variables and secrets (if any)
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
